@@ -1,0 +1,5 @@
+Written description of observable trends based on the data.
+
+1) Females did purchase but males are the highest spenders.
+2) Youngers players 15-19 and 20-24 age spend more money in purchase than older players.
+3) Younger players 14 and younger represent the lower percentage of players.
