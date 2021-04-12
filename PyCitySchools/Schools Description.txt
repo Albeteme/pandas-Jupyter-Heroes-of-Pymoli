@@ -1,0 +1,4 @@
+Observation of trends
+1) Charter Schools are in the top 5 schools with a passing rate >95% while the less performing are District schools with less than 82%.
+2) The budget per student seems to be in a lower range for Charter schools (578$-638$) compared to the District schools (637$-655$). 
+3) The more money is spent per student, the lower passing grade seem to be. The schools that spend less money present the best results.
