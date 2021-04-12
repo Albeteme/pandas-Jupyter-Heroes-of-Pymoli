@@ -1,4 +1,4 @@
-# pandas-challenge
+# My Panda
 On this project, I worked on a dataset from a fantasy game Heroes of Pymoli.
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. 
 So I analyzed the data to generate a report that breaks down the game's purchasing data into meaningful insights.
