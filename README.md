@@ -2,6 +2,7 @@
 On this project, I worked on a dataset from a fantasy game Heroes of Pymoli.
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. 
 So I analyzed the data to generate a report that breaks down the game's purchasing data into meaningful insights.
+![image](https://user-images.githubusercontent.com/75787486/122659862-ff3df380-d149-11eb-9955-155c1c4ba17e.png)
 My final report should include each of the following:
 
 Player Count:Total Number of Players
